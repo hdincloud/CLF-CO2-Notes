@@ -1,1 +1,1 @@
-# CLF-CO2-Notes
+This repository is dedicated to collecting and organizing notes related to the AWS Cloud Practitioner exam. Whether you're a beginner getting started with cloud computing or an experienced professional looking to solidify your foundational knowledge, these notes can serve as a valuable resource.
